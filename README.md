@@ -1,5 +1,5 @@
 # Иконки Яндекс устройств для Home Assistant
-Пак иконок (умных колонок с Алисой) для Home Assistant 
+Пак иконок (умных устройств с Алисой) для Home Assistant 
 
 ## Инструкции
 Чтобы добавить эти иконки в Home Assistant, нужно выполнить простые шаги:
@@ -19,6 +19,7 @@ frontend:
 ```
 station
 station-mini
+module
 dexp-smartbox
 elari-smartbeat
 irbis-a
