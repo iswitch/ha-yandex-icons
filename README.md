@@ -12,7 +12,7 @@
 ```
 frontend:
   extra_html_url:
-    - /local/yandex-icons.html
+    - /hacsfiles/ha-yandex-icons/yandex-icons.html
 ```
 
 Чтобы использовать иконки, просто напишите "yandex:station".
