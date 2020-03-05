@@ -30,4 +30,4 @@ prestigio-smartmate
 ```
 
 ## Пример
-![Media player](/docs/media_player.png "Media player")
+![Media player](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/media_player.png "Media player")
