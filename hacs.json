@@ -1,4 +1,5 @@
 {
   "name": "Yandex icons",
-  "filename": "yandex-icons.html"
+  "filename": "yandex-icons.html",
+  "render_readme": True
 }
