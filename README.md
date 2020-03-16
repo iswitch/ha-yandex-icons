@@ -19,6 +19,7 @@ frontend:
 
 Список доступных имен:
 ```
+alisa
 station
 station-mini
 module
