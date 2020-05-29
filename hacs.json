@@ -1,5 +1,6 @@
 {
   "name": "Yandex icons",
   "filename": "yandex-icons.js",
-  "render_readme": true
+  "render_readme": true,
+  "country": ["RU"]
 }
