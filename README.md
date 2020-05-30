@@ -8,7 +8,7 @@
 
 1) Скопируйте в папку www вашего Home Assistant или установить через HACS.
 2) Добавьте этот код в configuration.yaml:
-```
+```yaml
 lovelace:
   resources:
     - url: /hacsfiles/ha-yandex-icons/yandex-icons.js
