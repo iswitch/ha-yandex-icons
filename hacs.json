@@ -1,6 +1,7 @@
 {
-  "name": "Yandex icons",
+  "name": "Yandex Icons",
   "filename": "yandex-icons.js",
   "render_readme": true,
-  "country": ["RU"]
+  "country": ["RU"],
+  "homeassistant": "0.110.0"
 }
