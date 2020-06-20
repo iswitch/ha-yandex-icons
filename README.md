@@ -19,15 +19,17 @@ lovelace:
 
 Список доступных имен:
 ```
-alisa
-station
-station-mini
-module
-dexp-smartbox
-elari-smartbeat
-irbis-a
-lg-xboom-wk7y
-prestigio-smartmate
+yandex:alisa
+yandex:station
+yandex:station-mini
+yandex:module
+yandex:dexp-smartbox
+yandex:elari-smartbeat
+yandex:irbis-a
+yandex:lg-xboom-wk7y
+yandex:prestigio-smartmate
+yandex:jbl-link-music
+yandex:jbl-link-portable
 ```
 
 ## Пример
