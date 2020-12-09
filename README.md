@@ -21,6 +21,7 @@ lovelace:
 ```
 yandex:alisa
 yandex:station
+yandex:station-max
 yandex:station-mini
 yandex:module
 yandex:dexp-smartbox
