@@ -6,32 +6,32 @@
 ## Инструкции
 Чтобы добавить эти иконки в Home Assistant, нужно выполнить простые шаги:
 
-1) Скопируйте в папку www вашего Home Assistant или установите через HACS.
-2) Добавьте этот код в configuration.yaml:
+1. Найти в HACS **Yandex Icons**
+2. Добавьте этот код в configuration.yaml
+
 ```yaml
 lovelace:
   resources:
     - url: /hacsfiles/ha-yandex-icons/yandex-icons.js
       type: module  
 ```
+Или в ресурсы Lovelace
 
-Чтобы использовать иконки, просто напишите "yandex:station".
-
-Список доступных имен:
-```
-yandex:alisa
-yandex:station
-yandex:station-max
-yandex:station-mini
-yandex:module
-yandex:dexp-smartbox
-yandex:elari-smartbeat
-yandex:irbis-a
-yandex:lg-xboom-wk7y
-yandex:prestigio-smartmate
-yandex:jbl-link-music
-yandex:jbl-link-portable
-```
+[![Open your Home Assistant instance and show your Lovelace resources.](https://my.home-assistant.io/badges/lovelace_resources.svg)](https://my.home-assistant.io/redirect/lovelace_resources/)
 
 ## Пример
-![Media player](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/media_player.png "Media player")
+
+| Иконка                                                                                                                                      | Имя                        |
+|:--------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------|
+| ![Алиса](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/alisa.svg "Алиса")                                           | yandex:alisa               |
+| ![Яндекс.Станция](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station.svg "Яндекс.Станция")                       | yandex:station             |
+| ![Яндекс.Станция Макс](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-max.svg "Яндекс.Станция Макс")         | yandex:station-max         |
+| ![Яндекс.Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini.svg "Яндекс.Станция Мини")        | yandex:station-mini        |
+| ![Яндекс.Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module.svg "Яндекс.Модуль")                          | yandex:module              |
+| ![DEXP Smartbox](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/dexp-smartbox.svg "DEXP Smartbox")                   | yandex:dexp-smartbox       |
+| ![Elari SmartBeat](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/elari-smartbeat.svg "Elari SmartBeat")             | yandex:elari-smartbeat     |
+| ![Irbis A](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/irbis-a.svg "Irbis A")                                     | yandex:irbis-a             |
+| ![LG XBOOM AI ThinQ WK7Y](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/lg-xboom-wk7y.svg "LG XBOOM AI ThinQ WK7Y") | yandex:lg-xboom-wk7y       |
+| ![Prestigio Smartmate](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/prestigio-smartmate.svg "Prestigio Smartmate") | yandex:prestigio-smartmate |
+| ![JBL Link Music](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/jbl-link-music.svg "JBL Link Music")                | yandex:jbl-link-music      |
+| ![JBL Link Portable](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/jbl-link-portable.svg "JBL Link Portable")       | yandex:jbl-link-portable   |
