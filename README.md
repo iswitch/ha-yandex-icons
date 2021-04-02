@@ -7,7 +7,7 @@
 Чтобы добавить эти иконки в Home Assistant, нужно выполнить простые шаги:
 
 1. Найти в HACS **Yandex Icons**
-2. Добавьте этот код в configuration.yaml
+2. Добавьте этот код в configuration.yaml:
 
 ```yaml
 lovelace:
@@ -15,7 +15,15 @@ lovelace:
     - url: /hacsfiles/ha-yandex-icons/yandex-icons.js
       type: module  
 ```
-Или в ресурсы Lovelace
+Или так:
+```yaml
+lovelace:
+  resources:
+    - url: /local/community/ha-yandex-icons/yandex-icons.js
+      type: module  
+```
+
+А также можно через UI Home Assistant в ресурсах Lovelace
 
 [![Open your Home Assistant instance and show your Lovelace resources.](https://my.home-assistant.io/badges/lovelace_resources.svg)](https://my.home-assistant.io/redirect/lovelace_resources/)
 
