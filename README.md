@@ -35,7 +35,6 @@ lovelace:
 | ![Яндекс.Станция](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station.svg "Яндекс.Станция")                       | yandex:station             |
 | ![Яндекс.Станция Макс](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-max.svg "Яндекс.Станция Макс")         | yandex:station-max         |
 | ![Яндекс.Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini.svg "Яндекс.Станция Мини")        | yandex:station-mini        |
-| ![Яндекс.Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-lite.svg "Яндекс.Станция Лайт")        | yandex:station-lite        |
 | ![Яндекс.Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module.svg "Яндекс.Модуль")                          | yandex:module              |
 | ![DEXP Smartbox](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/dexp-smartbox.svg "DEXP Smartbox")                   | yandex:dexp-smartbox       |
 | ![Elari SmartBeat](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/elari-smartbeat.svg "Elari SmartBeat")             | yandex:elari-smartbeat     |
