@@ -10,10 +10,9 @@
 2. Добавьте этот код в configuration.yaml:
 
 ```yaml
-lovelace:
-  resources:
-    - url: /hacsfiles/ha-yandex-icons/yandex-icons.js
-      type: module  
+frontend:
+  extra_module_url:
+    - /hacsfiles/ha-yandex-icons/yandex-icons.js 
 ```
 Или так:
 ```yaml
@@ -22,6 +21,14 @@ lovelace:
     - url: /local/community/ha-yandex-icons/yandex-icons.js
       type: module  
 ```
+Или так:
+```yaml
+lovelace:
+  resources:
+    - url: /hacsfiles/ha-yandex-icons/yandex-icons.js
+      type: module  
+```
+
 
 А также можно через UI Home Assistant в ресурсах Lovelace
 
