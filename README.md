@@ -41,6 +41,7 @@ lovelace:
 | ![Алиса](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/alisa.svg "Алиса")                                           | yandex:alisa               |
 | ![Яндекс.Станция](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station.svg "Яндекс.Станция")                       | yandex:station             |
 | ![Яндекс.Станция Макс](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-max.svg "Яндекс.Станция Макс")         | yandex:station-max         |
+| ![Яндекс.Станция 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-2.svg "Яндекс.Станция 2")                 | yandex:station-2           |
 | ![Яндекс.Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini.svg "Яндекс.Станция Мини")        | yandex:station-mini        |
 | ![Яндекс.Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2.svg "Яндекс.Станция Мини 2")    | yandex:station-mini-2      |
 | ![Яндекс.Станция Лайт](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-lite.svg "Яндекс.Станция Лайт")        | yandex:station-lite        |
