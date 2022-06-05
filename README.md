@@ -1,4 +1,4 @@
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 # Иконки Яндекс устройств для Home Assistant
 Пак иконок (умных устройств с Алисой) для Home Assistant (актуально для плагина [YandexStation](https://github.com/AlexxIT/YandexStation))
