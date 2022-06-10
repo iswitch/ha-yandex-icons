@@ -1,12 +1,12 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/hacs/integration)
 
 # Иконки Яндекс устройств для Home Assistant
-Пак иконок (умных устройств с Алисой) для Home Assistant (актуально для плагина [YandexStation](https://github.com/AlexxIT/YandexStation))
+Пак иконок умных устройств с Алисой для Home Assistant (актуально для плагина [YandexStation](https://github.com/AlexxIT/YandexStation))
 
 ## Инструкции
 Чтобы добавить эти иконки в Home Assistant, нужно выполнить простые шаги:
 
-1. Найти в HACS **Yandex Icons**
+1. Найти и установить в HACS **Yandex Icons**
 2. Добавьте этот код в configuration.yaml:
 
 ```yaml
