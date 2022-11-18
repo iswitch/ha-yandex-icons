@@ -14,25 +14,6 @@ frontend:
   extra_module_url:
     - /hacsfiles/ha-yandex-icons/yandex-icons.js 
 ```
-Или так:
-```yaml
-lovelace:
-  resources:
-    - url: /local/community/ha-yandex-icons/yandex-icons.js
-      type: module  
-```
-Или так:
-```yaml
-lovelace:
-  resources:
-    - url: /hacsfiles/ha-yandex-icons/yandex-icons.js
-      type: module  
-```
-
-
-А также можно через UI Home Assistant в ресурсах Lovelace
-
-[![Open your Home Assistant instance and show your Lovelace resources.](https://my.home-assistant.io/badges/lovelace_resources.svg)](https://my.home-assistant.io/redirect/lovelace_resources/)
 
 ## Пример
 
