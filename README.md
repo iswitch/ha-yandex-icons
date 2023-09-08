@@ -39,3 +39,4 @@ frontend:
 | ![Яндекс.Музыка](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/music.svg "Музыка")                                                  | yandex:music                    |
 | ![Логотип RU](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/ya.svg "Логотип RU")                                                    | yandex:ya                       |
 | ![Логотип EN](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/ya_en.svg "Логотип EN")                                                 | yandex:ya_en                    |
+| ![Кинопоиск](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/kinopoisk.svg "Кинопоиск")                                               | yandex:kinopoisk                |
