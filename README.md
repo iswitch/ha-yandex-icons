@@ -29,6 +29,7 @@ frontend:
 | ![Яндекс.Станция Лайт](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-lite.svg "Яндекс.Станция Лайт")                        | yandex:station-lite             |
 | ![Яндекс.Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module.svg "Яндекс.Модуль")                                          | yandex:module                   |
 | ![Яндекс.Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module-2.svg "Яндекс.Модуль 2")                                      | yandex:module-2                 |
+| ![Дисплей Xiaomi](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/display-xiaomi.svg "Дисплей Xiaomi")                                | yandex:display-xiaomi           |
 | ![DEXP Smartbox](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/dexp-smartbox.svg "DEXP Smartbox")                                   | yandex:dexp-smartbox            |
 | ![Elari SmartBeat](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/elari-smartbeat.svg "Elari SmartBeat")                             | yandex:elari-smartbeat          |
 | ![Irbis A](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/irbis-a.svg "Irbis A")                                                     | yandex:irbis-a                  |
