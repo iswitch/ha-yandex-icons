@@ -20,15 +20,16 @@ frontend:
 | Иконка                                                                                                                                                      | Имя                             |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------|
 | ![Алиса](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/alisa.svg "Алиса")                                                           | yandex:alisa                    |
-| ![Яндекс.Станция](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station.svg "Яндекс.Станция")                                       | yandex:station                  |
-| ![Яндекс.Станция Макс](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-max.svg "Яндекс.Станция Макс")                         | yandex:station-max              |
-| ![Яндекс.Станция 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-2.svg "Яндекс.Станция 2")                                 | yandex:station-2                |
-| ![Яндекс.Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini.svg "Яндекс.Станция Мини")                        | yandex:station-mini             |
-| ![Яндекс.Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2.svg "Яндекс.Станция Мини 2")                    | yandex:station-mini-2           |
-| ![Яндекс.Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2-stereo.svg "Яндекс.Станция Мини 2 (Стерео)")    | yandex:station-mini-2-stereo    |
-| ![Яндекс.Станция Лайт](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-lite.svg "Яндекс.Станция Лайт")                        | yandex:station-lite             |
-| ![Яндекс.Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module.svg "Яндекс.Модуль")                                          | yandex:module                   |
-| ![Яндекс.Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module-2.svg "Яндекс.Модуль 2")                                      | yandex:module-2                 |
+| ![Станция](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station.svg "Станция")                                                     | yandex:station                  |
+| ![Станция Макс](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-max.svg "Станция Макс")                                       | yandex:station-max              |
+| ![Станция 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-2.svg "Станция 2")                                               | yandex:station-2                |
+| ![Станция Миди](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-midi.svg "Станция Миди")                                      | yandex:station-midi             |
+| ![Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini.svg "Станция Мини")                                      | yandex:station-mini             |
+| ![Станция Мини 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2.svg "Станция Мини 2")                                | yandex:station-mini-2           |
+| ![Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2-stereo.svg "Станция Мини 2 (Стерео)")                  | yandex:station-mini-2-stereo    |
+| ![Станция Лайт](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-lite.svg "Станция Лайт")                                      | yandex:station-lite             |
+| ![Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module.svg "Модуль")                                                        | yandex:module                   |
+| ![Модуль 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module-2.svg "Модуль 2")                                                  | yandex:module-2                 |
 | ![Дисплей Xiaomi](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/display-xiaomi.svg "Дисплей Xiaomi")                                | yandex:display-xiaomi           |
 | ![DEXP Smartbox](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/dexp-smartbox.svg "DEXP Smartbox")                                   | yandex:dexp-smartbox            |
 | ![Elari SmartBeat](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/elari-smartbeat.svg "Elari SmartBeat")                             | yandex:elari-smartbeat          |
