@@ -28,6 +28,7 @@ frontend:
 | ![Станция Мини 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2.svg "Станция Мини 2")                                | yandex:station-mini-2           |
 | ![Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2-stereo.svg "Станция Мини 2 (Стерео)")                  | yandex:station-mini-2-stereo    |
 | ![Станция Лайт](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-lite.svg "Станция Лайт")                                      | yandex:station-lite             |
+| ![Станция Дуо Макс](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-duo-max.svg "Станция Дуо Макс")                           | yandex:station-duo-max          |
 | ![Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module.svg "Модуль")                                                        | yandex:module                   |
 | ![Модуль 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module-2.svg "Модуль 2")                                                  | yandex:module-2                 |
 | ![Дисплей Xiaomi](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/display-xiaomi.svg "Дисплей Xiaomi")                                | yandex:display-xiaomi           |
