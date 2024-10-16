@@ -28,9 +28,11 @@ frontend:
 | ![Станция Мини 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2.svg "Станция Мини 2")                                | yandex:station-mini-2           |
 | ![Станция Мини](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-mini-2-stereo.svg "Станция Мини 2 (Стерео)")                  | yandex:station-mini-2-stereo    |
 | ![Станция Лайт](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-lite.svg "Станция Лайт")                                      | yandex:station-lite             |
+| ![Станция Лайт 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-lite-2.svg "Станция Лайт 2")                                | yandex:station-lite-2           |
 | ![Станция Дуо Макс](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-duo-max.svg "Станция Дуо Макс")                           | yandex:station-duo-max          |
 | ![Модуль](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module.svg "Модуль")                                                        | yandex:module                   |
 | ![Модуль 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/module-2.svg "Модуль 2")                                                  | yandex:module-2                 |
+| ![Хаб](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/hub.svg "Хаб")                                                                 | yandex:hub                      |
 | ![Дисплей Xiaomi](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/display-xiaomi.svg "Дисплей Xiaomi")                                | yandex:display-xiaomi           |
 | ![DEXP Smartbox](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/dexp-smartbox.svg "DEXP Smartbox")                                   | yandex:dexp-smartbox            |
 | ![Elari SmartBeat](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/elari-smartbeat.svg "Elari SmartBeat")                             | yandex:elari-smartbeat          |
