@@ -22,6 +22,7 @@ frontend:
 | ![Алиса](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/alisa.svg "Алиса")                                                           | yandex:alisa                    |
 | ![Станция](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station.svg "Станция")                                                     | yandex:station                  |
 | ![Станция Макс](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-max.svg "Станция Макс")                                       | yandex:station-max              |
+| ![Станция BORK](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-bork.svg "Станция BORK")                                       | yandex:station-bork            |
 | ![Станция 2](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-2.svg "Станция 2")                                               | yandex:station-2                |
 | ![Станция 3](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-3.svg "Станция 3")                                                | yandex:station-3               |
 | ![Станция Миди](https://raw.githubusercontent.com/iswitch/ha-yandex-icons/master/docs/station-midi.svg "Станция Миди")                                      | yandex:station-midi             |
